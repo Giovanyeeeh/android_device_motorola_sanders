@@ -1,23 +1,22 @@
-# Device Tree for Xiaomi Redmi Note 4 & 4x (Mido)
+Device Tree for Moto G5S Plus (sanders)
+===========================================
 
-## Spec Sheet
+The Motorola Moto G5S Plus (codenamed _"sanders"_) is a mid-range smartphone from Motorola mobility.
+It was announced on August 2017.
 
-| Feature                 | Specification                     |
-| :---------------------- | :-------------------------------- |
-| CPU                     | Octa-core 2.0 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8953 Snapdragon 625   |
-| GPU                     | Adreno 506                        |
-| Memory                  | 2/3/4 GB                          |
-| Shipped Android Version | 6.0.1                             |
-| Storage                 | 32/64 GB                          |
-| MicroSD                 | Up to 256 GB                      |
-| Battery                 | 4100 mAh (non-removable)          |
-| Dimensions              | 151 x 76 x 8.5 mm                 |
-| Display                 | 1920x1080 pixels, 5.5 (~401 PPI)  |
-| Rear Camera             | 13 MP, LED flash                  |
-| Front Camera            | 5 MP                              |
-| Release Date            | January 2017                      |
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Octa-core 2.0 GHz Cortex-A53
+Chipset | Qualcomm MSM8953 Snapdragon 625
+GPU     | Adreno 506
+Memory  | 4 GB RAM
+Shipped Android Version | 7.0.0
+Storage | 32 GB
+MicroSD | Up to 256 GB
+Battery | Li-Ion 3000mAh battery
+Display | 1080 x 1920 pixels, 5.2 inches (~402 ppi pixel density)
+Camera  | Dual 13 MP, f/2.0, autofocus, dual-LED (dual tone) flash, 2150 x 1440 pixels
 
-## Device Picture
+Copyright 2017 - The LineageOS Project.
 
-![Redmi Note 4](http://i01.appmifile.com/webfile/globalimg/7/537557F3-A4F1-2490-E9D3-138B2A11DBF6.png "Redmi Note 4")
+![Moto G5S Plus](http://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g5s-plus-1.jpg "Moto G5 Plus")
